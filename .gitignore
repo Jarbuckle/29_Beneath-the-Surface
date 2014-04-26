@@ -216,3 +216,6 @@ pip-log.txt
 
 #Unity
 Assets/Standard*
+Library/
+*.userprefs
+Temp/
