@@ -49,6 +49,7 @@
      <Compile Include="Assets\ChargeUp.cs" />
      <Compile Include="Assets\Current.cs" />
      <Compile Include="Assets\Floating.cs" />
+     <Compile Include="Assets\GamePiece.cs" />
      <Compile Include="Assets\Level.cs" />
      <Compile Include="Assets\Magnet.cs" />
      <Compile Include="Assets\PlayerControl.cs" />
